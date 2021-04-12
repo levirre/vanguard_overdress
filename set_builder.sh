@@ -1,9 +1,10 @@
 #set_builder.sh
 
-echo ------Paste Set URL Source-----------
-read URL
+read -p 'Paste Set URL Source: '  URL
 echo Entered: 
-echo "$URL"
-
+echo $URL
 ##
-curl $URL | grep '{{CardList/TD*' | sed 's/{{CardList*TD|//;s/..$//;s/ /_/g'  | tr '/' '-' | cut -d "|" -f 2-
+LIST=$(curl $URL | grep '{{CardList/TD*' | sed 's/{{CardList*TD|//;s/..$//;s/ /_/g'  | tr '/' '-' | cut -d "|" -f 2- )
+SET=$(echo "$LIST" |  head -n 1 | grep -o 'D-....' )
+
+echo "$LIST" > $SET.txt
