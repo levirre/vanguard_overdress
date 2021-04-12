@@ -1,0 +1,15 @@
+D-SD02-001|Diabolos,_"Violence"_Bruce|3|Dark_States|Persona_Ride|4
+D-SD02-002|Diabolos,_"Anger"_Richard|2|Dark_States||4
+D-SD02-003|Diabolos,_"Bad"_Steve|1|Dark_States||4
+D-SD02-004|Diabolos,_"Innocent"_Matt|0|Dark_States||1
+D-SD02-005|Time-fissuring_Fist_Colossus|3|Dark_States|Persona_Ride|4
+D-SD02-006|Icicle_Ein,_Aizer|2|Dark_States||3
+D-SD02-007|Steam_Gunner,_Brody|2|Dark_States||3
+D-SD02-008|Acrobat_Presenter|1|Dark_States||4
+D-SD02-009|Psychic_Prima,_Miranda|1|Dark_States|Sentinel|4
+D-SD02-010|Spiritual_King_of_Determination,_Olbaria|0||Over|1
+D-SD02-011|Diabolos_Girls,_Maimai|0|Dark_States|Critical|4
+D-SD02-012|Diabolos_Boys,_Jake|0|Dark_States|Draw|4
+D-SD02-013|Diabolos_Officer,_Gillian|0|Dark_States|Front|3
+D-SD02-014|Diabolos_Girls,_Arianna|0|Dark_States|Heal|4
+D-SD02-015|Brothers'_Soul|1|Dark_States|Normal_Order|3

@@ -1,0 +1,15 @@
+D-SD04-001|Sylvan_Horned_Beast_King,_Magnolia|3|Stoicheia|Persona_Ride|4
+D-SD04-002|Sylvan_Horned_Beast,_Lattice|2|Stoicheia||4
+D-SD04-003|Sylvan_Horned_Beast,_Charis|1|Stoicheia||4
+D-SD04-004|Sylvan_Horned_Beast,_Lotte|0|Stoicheia||1
+D-SD04-005|Seizing_Slash_Mutant,_Bruslash|2|Stoicheia||3
+D-SD04-006|Sylvan_Horned_Beast,_Dooger|2|Stoicheia||4
+D-SD04-007|Looting_Petal_Stomalia|2|Stoicheia||4
+D-SD04-008|Knight_of_Friendship,_Cyrus|1|Stoicheia||4
+D-SD04-009|Hopeful_Maiden,_Alejandra|1|Stoicheia|Sentinel|4
+D-SD04-010|Spiritual_King_of_Determination,_Olbaria|0||Over|1
+D-SD04-011|Sylvan_Horned_Beast,_Jackalope|0|Stoicheia|Critical|4
+D-SD04-012|Sylvan_Horned_Beast,_Polatter|0|Stoicheia|Draw|4
+D-SD04-013|Sylvan_Horned_Beast,_Valin|0|Stoicheia|Front|3
+D-SD04-014|Sylvan_Horned_Beast,_Zlatorog|0|Stoicheia|Heal|4
+D-SD04-015|Call_to_the_Beasts|2|Stoicheia|Order|2

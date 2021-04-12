@@ -1,0 +1,15 @@
+D-SD05-001|Aurora_Battle_Princess,_Seraph_Snow|3|Brandt_Gate|Persona_Ride|4
+D-SD05-002|Aurora_Battle_Princess,_Risatt_Pink|2|Brandt_Gate||4
+D-SD05-003|Aurora_Battle_Princess,_Kyanite_Blue|1|Brandt_Gate||4
+D-SD05-004|Aurora_Battle_Princess,_Ruby_Red|0|Brandt_Gate||1
+D-SD05-005|Alert_Guard_Gunner|3|Brandt_Gate|Persona_Ride|4
+D-SD05-006|Security_Patroller|2|Brandt_Gate||4
+D-SD05-007|Jeweled_Combination,_Jewelion|2|Brandt_Gate||3
+D-SD05-008|Autonomic_Caution|1|Brandt_Gate||4
+D-SD05-009|Craggy_Beast,_Girgrand|1|Brandt_Gate|Sentinel|4
+D-SD05-010|Spiritual_King_of_Determination,_Olbaria|0||Over|1
+D-SD05-011|Aurora_Battle_Princess,_Lourus_Yellow|0|Brandt_Gate|Critical|4
+D-SD05-012|Aurora_Battle_Princess,_Amy_Orange|0|Brandt_Gate|Draw|4
+D-SD05-013|Aurora_Battle_Princess,_Fronte_Rose|0|Brandt_Gate|Front|3
+D-SD05-014|Aurora_Battle_Princess,_Treuse_Green|0|Brandt_Gate|Heal|4
+D-SD05-015|Galaxy_Central_Prison,_Galactolus|1|Brandt_Gate|Set_Order|2

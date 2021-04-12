@@ -1,0 +1,15 @@
+D-SD03-001|Apex_Ruler,_Bastion|3|Keter_Sanctuary|Persona_Ride|4
+D-SD03-002|Knight_of_Heavenly_Spear,_Rooks|2|Keter_Sanctuary||4
+D-SD03-003|Knight_of_Heavenly_Sword,_Fort|1|Keter_Sanctuary||4
+D-SD03-004|Knight_of_Heavenly_Bows,_Base|0|Keter_Sanctuary||1
+D-SD03-005|Vehement_Witch,_Ramana|3|Keter_Sanctuary|Persona_Ride|4
+D-SD03-006|Knight_of_Broadaxe,_Rafluke|3|Keter_Sanctuary|Persona_Ride|4
+D-SD03-007|Shadow_Bow_Archer,_Lisana|1|Keter_Sanctuary||3
+D-SD03-008|Platinum_Wolf|1|Keter_Sanctuary||2
+D-SD03-009|Lifesaving_Angel,_Kurabiel|1|Keter_Sanctuary|Sentinel|4
+D-SD03-010|Spiritual_King_of_Determination,_Olbaria|0||Over|1
+D-SD03-011|Knight_of_Heavenly_Hammer,_Gurgant|0|Keter_Sanctuary|Critical|4
+D-SD03-012|Knight_of_Heavenly_Pierce,_Gallus|0|Keter_Sanctuary|Draw|4
+D-SD03-013|Knight_of_Heavenly_Rend,_Lif|0|Keter_Sanctuary|Front|3
+D-SD03-014|Healer_of_Heavenly_Staff,_Arshes|0|Keter_Sanctuary|Heal|4
+D-SD03-015|The_Hour_of_Holy_Judgement_Cometh|3|Keter_Sanctuary|Order|4
