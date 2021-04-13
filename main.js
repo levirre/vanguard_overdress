@@ -5,6 +5,7 @@ const path = require('path');
 
 
 // This is like specific importing functions from a module in Python
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 // from Cirle.py import GetArea
 
 //import app and BrowserWindow modules from Electron
