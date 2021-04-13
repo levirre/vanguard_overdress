@@ -6,4 +6,4 @@ import sys
 import os
 import subprocess
 
-subprocess.run("./set_builder.sh")
+subprocess.call(['bash','-c','. set_builder.sh; build_set'])
