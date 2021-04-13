@@ -23,18 +23,21 @@ app.on('ready',function(){
         slashes: true
         // loads ./mainWindow.html
     }));
+    //Remove Top menu bar
+    mainWindow.setMenu(null);
+    
     //This create the top bar header --File Edit Selection... etc
-    const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
-    Menu.setApplicationMenu(mainMenu);
+    //const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
+    //Menu.setApplicationMenu(mainMenu);
 
     mainWindow.on('closed',function(){app.quit});
 
 });
 
-
+/*
 const mainMenuTemplate = [{
     label:'File',
     submenu:[{label: 'Start New Game'},{label: 'Connect'},{label: 'Reconnect'},{label: 'Quit',click(){app.quit()}  }]
 }]
-
+*/
 
