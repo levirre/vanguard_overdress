@@ -14,25 +14,12 @@
         <h1>Cardfight Lobby</h1>
 
         <div id="counter">
-            <div v-bind:style="{color: hasColor}" > test {{ card }}</div> 
+            <img v-bind:src=card>
+            
         </div>
     
-    
-    <script>
-    const Counter = {
-        data(){
-            return{
-                hasColor: "red",
-                card: 10,
-                
-            }
-        }
-    };
-    const app = Vue.createApp(Counter)
-    const vm = app.mount('#counter');
-    console.log(vm.card);
+    <script src="./deck_hash.js"></script>
 
-    </script>
     </body>
 </html>
 <!--mainWindow.html-->
