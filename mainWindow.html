@@ -28,8 +28,9 @@
             }
         }
     };
-    Vue.createApp(Counter).mount('#counter');
-        
+    const app = Vue.createApp(Counter)
+    const vm = app.mount('#counter');
+    console.log(vm.card);
 
     </script>
     </body>
