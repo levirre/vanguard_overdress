@@ -29,7 +29,7 @@ app.on('ready',function(){
         // loads ./mainWindow.html
     }));
     //Remove Top menu bar
-    mainWindow.setMenu(null);
+    //mainWindow.setMenu(null);
     
     //This create the top bar header --File Edit Selection... etc
     //const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);

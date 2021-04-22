@@ -2,4 +2,4 @@
 
 #
 
-access dev tools with f12 key
+access dev tools with ctrl + shift + i
