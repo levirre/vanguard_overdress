@@ -14,6 +14,8 @@
   "author": "Allan Asis",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^4.0.0",
+    "deckstrings": "^2.2.1",
     "electron": "^12.0.2"
   }
 }

@@ -16,7 +16,11 @@ let mainWindow;
 // Listen for the app to be ready
 app.on('ready',function(){
     //create new window
-    mainWindow = new BrowserWindow({});
+    mainWindow = new BrowserWindow({webPreferences:{
+        nodeIntegration: true,
+        contextIsolation: false
+    }
+    });
     //load html file into window
     mainWindow.loadURL(url.format({
         pathname: path.join(__dirname,'mainWindow.html'),
@@ -34,6 +38,10 @@ app.on('ready',function(){
     mainWindow.on('closed',function(){app.quit});
 
 });
+
+
+
+
 
 /*
 const mainMenuTemplate = [{
